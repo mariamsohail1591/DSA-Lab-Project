@@ -1,2 +1,3 @@
 # DSA-Lab-Project
-This is my second Git Repository.
+This is my first Git Repository.
+Author - Mariam Sohail
